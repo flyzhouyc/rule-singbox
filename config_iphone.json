@@ -25,7 +25,7 @@
             },
             {
                 "tag": "block-dns",
-                "address": "rcode://name_error",
+                "address": "rcode://name_error"
             },
             {
                 "tag": "cndns",
