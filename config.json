@@ -183,7 +183,7 @@
                 "tag": "cnsite",
                 "type": "remote",
                 "format": "binary",
-                "url": "https://github.flyzhouyc.win/https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo/geosite/cn.sr",
+                "url": "https://github.flyzhouyc.win/https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo/geosite/cn.srs",
                 "download_detour": "direct-out"
             }
         ],
