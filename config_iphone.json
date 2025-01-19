@@ -21,7 +21,7 @@
         "servers": [
             {
                 "tag": "default-dns",
-                "address": "0.0.0.0",
+                "address": "47.108.78.118",
                 "detour": "direct-out"
             },
             {
@@ -30,13 +30,13 @@
             },
             {
                 "tag": "cndns",
-                "address": "https://0.0.0.0/dns-query",
+                "address": "https://47.108.78.118/dns-query",
                 "address_resolver": "default-dns",
                 "detour": "direct-out"
             },
             {
                 "tag": "google",
-                "address": "https://0.0.0.0:8443/dns-query",
+                "address": "https://jp193.flyzhouyc.win:8443/dns-query",
                 "address_resolver": "cndns",
                 "client_subnet": "125.64.15.199"
             }
