@@ -151,6 +151,13 @@
                 "outbound": "dns-out"
             },
             {
+                "domain_keyword": [
+                    "tieto",
+                    "tietoevry"
+                ],
+                "outbound": "direct-out"
+            },
+            {
                 "clash_mode": "direct",
                 "outbound": "direct-out"
             },
