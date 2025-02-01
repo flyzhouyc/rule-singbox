@@ -32,7 +32,7 @@
             },
             {
                 "tag": "cndns",
-                "address": "https://47.108.78.118/dns-query",
+                "address": "https://cn47.pipy.us.kg:8443/dns-query",
                 "address_resolver": "default-dns",
                 "detour": "direct-out"
             },
