@@ -23,7 +23,7 @@
         "servers": [
             {
                 "tag": "default-dns",
-                "address": "47.108.78.118",
+                "address": "223.5.5.5",
                 "detour": "direct-out"
             },
             {
